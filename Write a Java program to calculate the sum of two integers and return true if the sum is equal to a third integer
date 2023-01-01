@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class Main {
+public static void main(String[] args){
+Scanner input = new Scanner(System.in);
+System.out.print(&quot;Input 3 numbers: &quot;);
+int a = blah.nextInt();
+int b = blah.nextInt();
+int c = blah.nextInt();
+int result = a + b;
+System.out.print(&quot;The result is: &quot;+result);
+System.out.println(c == result);
+}
+}
